@@ -5,15 +5,7 @@ This repo includes most homework and lab assignments from the data structures & 
 # Mod 1 Lab - Basic Python
 
 ## Part 1 – Solo – hello.py
-3)	Click the `mod_1_lab` subdirectory on the left-hand sidebar to expand it. You should see 4 files:
-    * `hello.py` - a file you will modify shortly
-    * `Mod1Lab.md` - the markdown version of these instructions (viewable in Mimir)
-    * `Mod1Lab.pdf` - the pdf version of these instructions (not viewable in Mimir)
-    * `stats.py` - a file you will modify shortly
-
-    Click `hello.py` to open it in a text editor.
-
-4) Add the following to hello.py :
+1) Add the following to hello.py :
 ```python
 print("Hello World!")
 ```
